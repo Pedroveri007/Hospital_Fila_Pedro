@@ -1,0 +1,7 @@
+C:\Users\lab2093\Desktop\Projeto1\fila_paciente_jeff\fila_paciente_jeff\bin\Debug\fila_paciente_jeff.exe.config
+C:\Users\lab2093\Desktop\Projeto1\fila_paciente_jeff\fila_paciente_jeff\bin\Debug\fila_paciente_jeff.exe
+C:\Users\lab2093\Desktop\Projeto1\fila_paciente_jeff\fila_paciente_jeff\bin\Debug\fila_paciente_jeff.pdb
+C:\Users\lab2093\Desktop\Projeto1\fila_paciente_jeff\fila_paciente_jeff\obj\Debug\fila_paciente_jeff.csproj.AssemblyReference.cache
+C:\Users\lab2093\Desktop\Projeto1\fila_paciente_jeff\fila_paciente_jeff\obj\Debug\fila_paciente_jeff.csproj.CoreCompileInputs.cache
+C:\Users\lab2093\Desktop\Projeto1\fila_paciente_jeff\fila_paciente_jeff\obj\Debug\fila_paciente_jeff.exe
+C:\Users\lab2093\Desktop\Projeto1\fila_paciente_jeff\fila_paciente_jeff\obj\Debug\fila_paciente_jeff.pdb
